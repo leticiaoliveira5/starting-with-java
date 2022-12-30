@@ -18,5 +18,8 @@ public class Arrays1 {
 
     String[] letras = { "A", "B", "C", "D", "E" };
     System.out.println(Arrays.toString(letras));
+    double bla = 2.5;
+    System.out.println(++bla);
+    for(int i=1; i<=10; i++) System.out.println(++i);
   }  
 }
